@@ -1,0 +1,18 @@
+influx:
+  host: influxdb
+  port: 8086
+  user: ""
+  pass: ""
+  secure: false
+  db: pings
+
+infping:
+  backoff: 1
+  retries: 0
+  tos: 0
+  summary: 10
+  period: 1000
+
+hosts:
+  - 1.1.1.1
+  - 8.8.8.8
