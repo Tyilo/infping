@@ -126,7 +126,7 @@
 							"type": "time"
 						}
 					],
-					"measurement": "ping",
+					"measurement": "infping",
 					"orderByTime": "ASC",
 					"policy": "default",
 					"refId": "A",
@@ -163,7 +163,7 @@
 							"type": "time"
 						}
 					],
-					"measurement": "ping",
+					"measurement": "infping",
 					"orderByTime": "ASC",
 					"policy": "default",
 					"refId": "C",
@@ -200,7 +200,7 @@
 							"type": "time"
 						}
 					],
-					"measurement": "ping",
+					"measurement": "infping",
 					"orderByTime": "ASC",
 					"policy": "default",
 					"refId": "B",
@@ -237,7 +237,7 @@
 							"type": "time"
 						}
 					],
-					"measurement": "ping",
+					"measurement": "infping",
 					"orderByTime": "ASC",
 					"policy": "default",
 					"refId": "D",
